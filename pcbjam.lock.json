@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-28T07:06:17.511Z",
+  "projectId": "7b7cbbb5-9bcc-4440-9e60-914eadf970de",
+  "libs": [
+    {
+      "nickname": "Button_Switch_THT",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "19f0da59-3404-48da-813f-6fc686e97612",
+      "type": "origin",
+      "revision": "sha256:f97fcb705be6b23a4acec2ce0bf509efb8e84ef1fcbd45d07d59eff7f81ca414",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Capacitor_SMD",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "60748671-0c52-46d0-8a43-c20ce9673392",
+      "type": "origin",
+      "revision": "sha256:a41398cdf6619672ee9bb699d65d6326c7584eaf7350852fe3d6f4f157ee8837",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Connector",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "603f95fd-638e-4591-9637-00f9a6ebb146",
+      "type": "origin",
+      "revision": "sha256:35e81e7a81d0e4079da082310590e86a540a186ef5ad4068d3e463e6b863debf",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Connector_BarrelJack",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "c0e80acd-9fea-4a21-9a3c-6e7851d68f1b",
+      "type": "origin",
+      "revision": "sha256:4df5820adbadbea103db4a6fa9bb4290df9c6fab965c1a2534cd3527062011b0",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Connector_Generic",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "ae3708d5-28be-43e1-8a36-135c1b21b3ce",
+      "type": "origin",
+      "revision": "sha256:f98bb50a3c329acf48752f5b66a621d63d0db9e37200c16a704ccee16a00466d",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Connector_PinHeader_2.54mm",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "a87e4fa3-5853-4be7-a01c-26122b695c84",
+      "type": "origin",
+      "revision": "sha256:baa6fb6df9c8a1c746dd357d52a2cdaa47c57533c94625483d8ecc5612a258ea",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Crystal",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "67ae68c5-a09d-487b-9e00-7e439e776b79",
+      "type": "origin",
+      "revision": "sha256:c2f124f7cd69c394d367c18b6c99d394b3db60224d529617c7b2789b17921ce8",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Device",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "0ab44ce9-a1a3-42db-9500-39095e7abdd1",
+      "type": "origin",
+      "revision": "sha256:d9ef391d4d88512c41c11308b4cf6ce582f146265804ee52f41fc9e8d31bd1ff",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "LED_SMD",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "c069912f-f040-4d58-8313-12bb87cb582f",
+      "type": "origin",
+      "revision": "sha256:d8dd66182a791e4748f2a48d650fd008e474b15256a65241d392d5a05978779e",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "MCU_Microchip_ATmega",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "eb719415-4059-4c9c-9355-621734897c20",
+      "type": "origin",
+      "revision": "sha256:ceadbd3df78a90d886cfd414b5afe51777eea653e9795666867e179eef470911",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Mechanical",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "932f0983-c30e-434e-ac94-09290c769960",
+      "type": "origin",
+      "revision": "sha256:ac806b3fe71c400f2ce229faa84f173a44bc90960f993f0cd178d50850bed2ad",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "MountingHole",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "da8070c1-7518-4976-a567-45ec8f8555ce",
+      "type": "origin",
+      "revision": "sha256:10c3cf639d2ea7f6a07076bd8216b929dd26439e8ad41b0feae8ad693e4f9fbc",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Package_QFP",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "209788e0-fb06-436e-aff6-299edf8da9d9",
+      "type": "origin",
+      "revision": "sha256:d3d4534e0a1ded43899db6b905b9f61ba843da3ff278b6629b313a7ba332664e",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Package_TO_SOT_SMD",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "23e608ed-6223-45f2-9cab-9d00905ead75",
+      "type": "origin",
+      "revision": "sha256:00a3fdb1967f433da35377c92898e263172656833885b044bd82784d99aad1f9",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Regulator_Linear",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "fb66c388-474f-4f52-958b-dca68d015617",
+      "type": "origin",
+      "revision": "sha256:bcf564c6a01f449b06d8d5ee285563518459491201161bf4ee98919b27e8de5a",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Resistor_SMD",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "b63fd060-d59d-4153-ab7c-9a9d6701393d",
+      "type": "origin",
+      "revision": "sha256:79d0531878950089a95e961df59599493c30a9a09697a9a0d60b8a7bd412af82",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Switch",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "5cf34aa5-24b5-4f99-96b4-2a76d005ca48",
+      "type": "origin",
+      "revision": "sha256:c141dde37ca63d1c6c245762bdabdc601fcba910871f81ab8c6cdec88c512033",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "power",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "1da47216-1e1d-4c6a-bc37-b8460a5ab077",
+      "type": "origin",
+      "revision": "sha256:62b2e65e3a9a89fd17290573e960a9675b6e249a8a879065e3f2dafb76a1a96f",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    }
+  ]
+}
