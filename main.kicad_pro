@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -645,7 +646,7 @@
       {
         "filename": "main.kicad_sch",
         "name": "main",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "53f04dab-2406-40f9-b198-9dc8567163c5"
       }
     ],
     "used_designators": "",
